@@ -5,4 +5,8 @@
     .details {
         @include body-text;
     }
+    .heading {
+        @include sub-header;
+    }
+
 }
